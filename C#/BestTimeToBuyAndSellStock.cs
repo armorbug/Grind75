@@ -1,3 +1,5 @@
+// Dynamic Programming
+
 public class Solution {
     public int MaxProfit(int[] prices) {
         int minPrice = int.MaxValue;
